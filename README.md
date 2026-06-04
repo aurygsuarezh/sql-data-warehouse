@@ -35,4 +35,4 @@ These insights are designed to provide stakeholders with actionable recommendati
 This project is licensed under the [MIT License].(LICENSE). You are free to use, modify and share this project with proper attribution.
 
 ## About me
-I'm Aury Suarez, systems engineer focused on data analytics. With over 3 years of experience, I am passionate about transforming data into meaningful insights and continuously expanding my skills in the data space.
+I'm Aury Suarez, a Systems Engineer focused on data analytics. With over 3 years of experience, I am passionate about transforming data into meaningful insights and continuously expanding my skills in the data space.
