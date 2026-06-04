@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to my Data Warehouse and Analytics Project repository.
-This project demonstrates my ability to design and build a complete data solution—from data ingestion and warehouse design to delivering actionable business insights for stakeholders.
+This project demonstrates my ability to design and build a complete data solution, from data ingestion and warehouse design to delivering actionable business insights for stakeholders.
 
 ## Tools Used
 - Notion: Establish tasks and track progress.
